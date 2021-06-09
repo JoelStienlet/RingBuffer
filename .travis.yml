@@ -1,6 +1,7 @@
-language: C
+language: c
+os: linux
 
-sudo: false
+#sudo: false <-- deprecated
 
 #before_install:
   #- sudo apt-get -y install zlib1g-dev
