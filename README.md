@@ -22,5 +22,10 @@ Some advantages of doing less:
 
 2- Code coverage: Ring Buffers and similar fundamental tools need to be reliable. We put some effort in ensuring that every line of code in the core has passed some test.
 
+## Other interesting Ring Buffer implementations:
+
+- A ring buffer that always presents a linear memory region, using mmap (obviously requiring a CPU providing memory paging):
+ [https://github.com/lava/linear_ringbuffer](https://github.com/lava/linear_ringbuffer)
 
 
+ 
