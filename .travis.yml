@@ -7,5 +7,5 @@ compiler: gcc
 
 script:
   - make coverage
-  - bash <(curl -s https://codecov.io/bash) -t 937fff88-95e4-4a6e-88bc-6a9ff337ded7
+  - bash <(curl -s https://codecov.io/bash)
   

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JoelStienlet/RingBuffer.svg?branch=main)](https://travis-ci.org/JoelStienlet/RingBuffer)
+[![Build Status](https://api.travis-ci.com/JoelStienlet/RingBuffer.svg?branch=main)](https://www.travis-ci.com/github/JoelStienlet/RingBuffer)
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/JoelStienlet/RingBuffer/blob/main/LICENSE)
 [![codecov](https://codecov.io/gh/JoelStienlet/g3logPython/branch/main/graph/badge.svg)](https://codecov.io/gh/JoelStienlet/RingBuffer)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/JoelStienlet/g3logPython.svg)](http://isitmaintained.com/project/JoelStienlet/RingBuffer "Percentage of issues still open")
