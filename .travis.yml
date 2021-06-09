@@ -1,8 +1,16 @@
 language: C
 
-before_install:
-  - sudo apt-get -y install zlib1g-dev
+sudo: false
 
+#before_install:
+  #- sudo apt-get -y install zlib1g-dev
+
+addons:
+  apt:
+    packages:
+      - valgrind
+      - zlib1g-dev
+  
 compiler: gcc
 
 script:
